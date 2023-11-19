@@ -8,7 +8,7 @@ Aplikasi ini dibuat dengan Framework PHP (Laravel), React Expo, React JS, Socket
 <img src="./Demo Admin.jpeg" width="100%" height="500" />
 
 ## Tampilan User
-<img src="./Demo User.jpeg" width="100%" height="500" />
+<img src="./Demo User.jpeg" width="36%" height="500" />
 
 ## Fitur - Fitur
 ### Fitur Admin
