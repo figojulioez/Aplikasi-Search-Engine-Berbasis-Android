@@ -50,11 +50,13 @@ Jalankan folder Frontend (untuk tampilan admin) :
 Jalankan folder SocketIo :
     
     // Hapus node_modules
+    npm install
     nodemon index.js
         
 Jalankan folder my-app :
 
     // Hapus node_modules
+    npm install
     npx expo start
     
 Usahakan folder SocketIo dan Backend anda jalankan dengan local servers seperti ngrok, atau serveo. Lalu salin link berikut dan ganti beberapa file ini :
