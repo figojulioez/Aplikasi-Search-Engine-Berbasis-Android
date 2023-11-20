@@ -35,21 +35,26 @@ Saya menyarankan anda saat mengikuti langkah - langkah ini terlebih dahulu. Teri
 
 Jalankan folder APIREACT :
 
+    composer install
     php artisan key:generate
     php artisan migrate
     php artisan db:seed
     php artisan serve
     
 Jalankan folder Frontend (untuk tampilan admin) :
-
+    
+    // Hapus node_modules
+    npm install
     npm start
     
 Jalankan folder SocketIo :
     
+    // Hapus node_modules
     nodemon index.js
         
 Jalankan folder my-app :
 
+    // Hapus node_modules
     npx expo start
     
 Usahakan folder SocketIo dan Backend anda jalankan dengan local servers seperti ngrok, atau serveo. Lalu salin link berikut dan ganti beberapa file ini :
